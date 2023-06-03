@@ -2,7 +2,7 @@
 # Training Super Mario game playing agent using Action-Value apprioximation and Policy Apprioximation and Performance Comparision.
 
 <p align='center'>
-    <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="800"/>
+    <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="400"/>
 </p>
 
 # Performance Comparison of Reinforcement Learning Algorithms in Super Mario Bros: DQN, DDQN, and PPO
@@ -53,9 +53,9 @@ The models obtained after training were used to play the same level for 100 epis
 The DDQN and PPO models were simulated with the same parameters used while training. The simulation results are shown below.
 
 <p align='center'>
-    <img src="/Analysis/Plots/DDQN.gif" alt="drawing" width="800"/>
+    <img src="/Analysis/Plots/DDQN.gif" alt="drawing" width="400"/>
 </p>
 
 <p align='center'>
-    <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="800"/>
+    <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="400"/>
 </p>
