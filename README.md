@@ -46,14 +46,16 @@ The models obtained after training were used to play the same level for 100 epis
     <img src="/Analysis/Plots/stepvsep_test.png" alt="drawing" width="600"/>
 </p>
 
-#Simulation
+### Simulation
 
 The DDQN and PPO models were simulated with the same parameters used while training. The simulation results are shown below.
 
+####  DDQN
 <p align='center'>
     <img src="/Analysis/Plots/DDQN.gif" alt="drawing" width="400"/>
 </p>
 
+####  PPO
 <p align='center'>
     <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="400"/>
 </p>
