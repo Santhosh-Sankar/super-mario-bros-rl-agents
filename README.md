@@ -1,11 +1,9 @@
 
-# Training Super Mario game playing agent using Action-Value apprioximation and Policy Apprioximation and Performance Comparision.
+# Training and Comparing performance of Super Mario game playing agent using Action-Value Apprioximation and Policy Apprioximation methods.
 
 <p align='center'>
     <img src="/Analysis/Plots/PPO.gif" alt="drawing" width="400"/>
 </p>
-
-# Performance Comparison of Reinforcement Learning Algorithms in Super Mario Bros: DQN, DDQN, and PPO
 
 This repository contains jupyter notebooks for training and analysing the performance of a game-playing agents trained to complete one level of Super Mario Bros. As the state-action sapce is enoromous, the agents are trained using two algorithms using action value approximation - Deep-Q-Network, Double Deep Q-Networks - and one using policy approximation - Proximal Policy Approximation.
 
