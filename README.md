@@ -30,7 +30,7 @@ The following plots highlight the discounted and undiscounted rewards obtained b
 
 The models obtained after training were used to play the same level for 100 episodes. The table summarizes the results.
 
-| Metric/RL algorithm                     |    DQN  |  DDQN  |   PPO   |  
+|                 Metric                  |    DQN  |  DDQN  |   PPO   |  
 | :--------------------------------------:|:-------:|:------:|:-------:|
 | **Average Discounted returns**          | 708.34  | 704.51 | 853.24  |
 | **Average number of steps per episode** | 537.58  | 549.49 | 342.07  |
